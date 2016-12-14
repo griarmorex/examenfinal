@@ -1,5 +1,5 @@
 <?php 
-	 $conexion=new mysqli("localhost","root","rootroot",'u859834616_exa');
+	 $conexion=new mysqli("mysql.hostinger.es","root","rootroot",'u859834616_exa');
 	 if ($conexion->connect_errno){
 	 	echo "Error al conectar ala BB DD:".
 	 		$conexion->connect_errno.",".
