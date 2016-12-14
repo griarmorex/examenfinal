@@ -61,7 +61,7 @@
 		</div>
 		<div class="col-md-4">
 			<div class="alert alert-success">
-				<strong>Bienvenidos</strong> al CRUD Personas.
+				<strong>Bienvenidos</strong> a Mi examen final.
 			</div>
 		</div>
 	</div>
