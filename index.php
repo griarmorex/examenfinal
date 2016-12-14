@@ -15,7 +15,7 @@
 		</div>
 		<div class="col-md-4">
 			<div class="alert alert-success">
-				<strong>Bienvenidos</strong> MI examen final.
+				<strong>Bienvenidos</strong> a MI examen final.
 			</div>
 		</div>
 	</div>
